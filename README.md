@@ -1,4 +1,4 @@
-jboss_module_creator
+JBoss Module Creator
 ====================
 
-Script to generate a jdbc module for jboss as 7
+Script to generate a jdbc module for jboss as 7.
