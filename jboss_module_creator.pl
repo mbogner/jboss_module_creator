@@ -8,7 +8,7 @@ use File::Path;
 use File::Copy;
 
 my ( $source, $dir, $target, $clean ) = (
-	'http://jdbc.postgresql.org/download/postgresql-9.2-1002.jdbc4.jar',
+	'https://jdbc.postgresql.org/download/postgresql-9.4-1200.jdbc41.jar',
 	'org/postgresql/driver', 'target', ''
 );
 
